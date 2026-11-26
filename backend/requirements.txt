@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0,<3
+psycopg[binary]>=3,<4
+pydantic[email]>=2,<3
+python-dotenv
